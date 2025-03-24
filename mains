@@ -39,7 +39,7 @@
 <body>
     <div class="menu">
         <h2>Select an Option</h2>
-        <a href="index.html">GAMES</a>
+        <a href="menu/index.html">GAMES</a>
         <a href="pages/game5.html">COMING SOON</a>
     </div>
 </body>
